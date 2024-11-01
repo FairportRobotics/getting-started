@@ -17,4 +17,4 @@ Did you notice how the README.md file has changed?  This is the magic of git.  L
 ### Git Introduction
 Git is a decentralized version control system.  That means it tracks files.  It basically takes a picture of what all your files look like at that moment and stores a reference to that snapshot.  It is made up of three parts: a repository of the history, the user's working directory and the staging area.
 
-[](https://marklodato.github.io/visual-git-guide/basic-usage.svg)
+![](https://marklodato.github.io/visual-git-guide/basic-usage.svg)
