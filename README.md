@@ -10,4 +10,9 @@ Welcome to Fairport Robotics software team!  Here are the steps to take to get s
    - [Add the SSH Key to your GitHub Account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 4. Clone this repository `git clone git@github.com:FairportRobotics/getting-started.git`
 5. Checkout the next-step branch by typing `git checkout next-step`
- 
+
+## Next Step
+Did you notice how the README.md file has changed?  This is the magic of git.  Let's teach you some more tricks but first what is this git you speak of?
+
+### Git Introduction
+Git is a version control system.  That means it tracks files.  It basically takes a picture of what all your files look like at that moment and stores a reference to that snapshot.
