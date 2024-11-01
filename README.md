@@ -15,4 +15,6 @@ Welcome to Fairport Robotics software team!  Here are the steps to take to get s
 Did you notice how the README.md file has changed?  This is the magic of git.  Let's teach you some more tricks but first what is this git you speak of?
 
 ### Git Introduction
-Git is a version control system.  That means it tracks files.  It basically takes a picture of what all your files look like at that moment and stores a reference to that snapshot.
+Git is a decentralized version control system.  That means it tracks files.  It basically takes a picture of what all your files look like at that moment and stores a reference to that snapshot.  It is made up of three parts: a repository of the history, the user's working directory and the staging area.
+
+[](https://marklodato.github.io/visual-git-guide/basic-usage.svg)
