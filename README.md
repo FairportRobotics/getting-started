@@ -1,13 +1,15 @@
-# Getting Started
-Welcome to Fairport Robotics software team!  Here are the steps to take to get started.
+# Getting Started - Practice
 
-## First Steps
+For this exercise you are going to practice git fundamentals.  It is a best practice that when you want to make changes to a git repository, to first create a branch, make your changes to files, commit the changes to the new branch, then merge these changes back in the root.  That is what we will practice.  
 
-1. [Download](https://code.visualstudio.com/) VS Code.  There is [full setup instructions](https://code.visualstudio.com/docs/setup/setup-overview).
-2. [Create a GitHub account](https://github.com/signup).  GitHub is where the team's software repository.
-3. Authenticate with SSH
-   - [Generate a New SSH Key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-   - [Add the SSH Key to your GitHub Account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
-4. Clone this repository `git clone git@github.com:FairportRobotics/getting-started.git`
-5. Checkout the next-step branch by typing `git checkout next-step`
- 
+You need to:
+
+* Create a branch off of the practice branch
+* Create a text file.  Follow this naming convention: firstname.txt.
+  - Optional: Enter in your credit card, bank account, or other personal information into this text file that is open to the public.
+* Add this file to your staging area
+* Commit the changes to your branch
+* Push those changes up to GitHub
+* Create a pull request to merge your changes into the practice branch.  Be sure to delete your branch once the merge is complete.
+
+Once you have successfully completed this practice, offer help to your fellow team members.  Once we have all successfully completed the practice, please checkout the `practice-main` branch.
