@@ -1,6 +1,5 @@
 # Getting Started - Next Step
 
-## Next Step
 Did you notice how the README.md file has changed?  This is the magic of git.  Let's teach you some more tricks but first what is this git you speak of?
 
 ## Git Introduction
@@ -21,6 +20,6 @@ One nice thing of working with git is that you can undo any changes.  `git reset
 
 These commands are often represented in the GUI of your IDE so you may not need to type them into a command prompt.  However, it is important to have a basic understanding of how they work.
 
-### Now Let's Practice
+## Now Let's Practice
 
 Let's  practice these fundamentals by checking out the "practice" branch (`git checkout practice`).
