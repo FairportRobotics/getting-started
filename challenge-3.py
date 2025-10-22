@@ -1,4 +1,4 @@
-class Student():
+class Student:
     def __init__(self, name, age, household_income, test_scores, is_adult):
         self.name = name
         self.age = age
